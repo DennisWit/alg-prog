@@ -45,20 +45,20 @@
 
 |[Контест 3](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
-| [1. Объединить отсортированные последовательности](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
-| [2. Валидатор скобочной последовательности](./contest_02/02/main.go) |  ![](./img/cpp.png) |
-| [3. Обратная польская нотация](./contest_02/03/main.cpp) | ![](./img/cpp.png) |
-| [4. Общие слова в последовательностях](./contest_02/03/main.cpp) | ![](./img/cpp.png) |
-| [5. Самое частое слово](./contest_02/03/main.cpp) | ![](./img/cpp.png) |
-| [6. Баланс пользователя](./contest_02/03/main.cpp) | ![](./img/cpp.png) |
-| [7. Какое следующее слово](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
-| [8. Уникальное число](./contest_02/02/main.go) |  ![](./img/go.png) |
-| [9. Подходящая пара чисел](./contest_02/03/main.cpp) | ![](./img/go.png) |
+| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Валидатор скобочной последовательности](./contest_03/02/main.go) |  ![](./img/cpp.png) |
+| [3. Обратная польская нотация](./contest_03/03/main.cpp) | ![](./img/cpp.png) |
+| [4. Общие слова в последовательностях](./contest_03/03/main.cpp) | ![](./img/cpp.png) |
+| [5. Самое частое слово](./contest_03/03/main.cpp) | ![](./img/cpp.png) |
+| [6. Баланс пользователя](./contest_03/03/main.cpp) | ![](./img/cpp.png) |
+| [7. Какое следующее слово](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
+| [8. Уникальное число](./contest_03/02/main.go) |  ![](./img/go.png) |
+| [9. Подходящая пара чисел](./contest_03/03/main.cpp) | ![](./img/go.png) |
 | ... | ... |
 
 |[Контест 4](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
-| [1. Количество выполненных задач](./contest_02/01/main.cpp) | ![](./img/go.png) |
-| [2. Количество выполненных задач](./contest_02/02/main.go) |  ![](./img/cpp.png) |
+| [1. Количество выполненных задач](./contest_04/01/main.cpp) | ![](./img/go.png) |
+| [2. Количество выполненных задач](./contest_04/02/main.go) |  ![](./img/cpp.png) |
 | ... | ... |
 
